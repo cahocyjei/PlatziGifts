@@ -13,7 +13,7 @@
                 <img src="<?php echo  get_template_directory_uri()?>/assets/img/logo.png" alt="logo">
             </div>
             <div class="col-8">
-                <nav class= "nav text-white">
+                <nav>
                     <?php wp_nav_menu(array(
                         'theme_location' => 'top_menu',
                         'menu_class' => 'Menú principal',

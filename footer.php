@@ -1,5 +1,5 @@
 <footer>
-<div class="container">
+<div class="container text-white">
     <?php dynamic_sidebar('footer'); ?>
 </div>
 </footer>
